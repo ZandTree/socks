@@ -1,0 +1,21 @@
+# human readable bytes=> decoded
+('127.0.0.1', 58558)
+GET / HTTP/1.1
+Host: 127.0.0.1:5000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9  
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,nl-NL;q=0.8,nl;q=0.7
+Cookie: csrftoken=mdwg5OEiPKicKVFPw2ppmSAgEPnAzJLUh93WUsS94iv4JN4EsjqMYojluB9U8nYC; sessionid=0ifm4ffg53u7z6al0uwlkj2xazy2n1o2
+
+

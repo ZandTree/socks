@@ -1,0 +1,11 @@
+http
+
+
+socket = ip:port
+
+socket.AF_INET = protocol for ip v4=> 4 bytes = 32 bits xxxxxxxx.yyyyyyyy.pppppppp.mmmmmmmm (devided by dots)
+
+tcp => + port; thx to port not whole tunnel is block by one connection   
+                    more acurate work with packages
+
+ip  => IP address: create tunnel;  to pass packages through a tunnel
